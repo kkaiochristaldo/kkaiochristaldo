@@ -29,4 +29,5 @@
 
 #
 
+ ![Snake animation](https://github.com/kkaiochristaldo/kkaiochristaldo/blob/output/github-contribution-grid-snake.svg)
 
