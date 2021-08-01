@@ -19,8 +19,8 @@
  <div>
  <a href="https://instagram.com/kaiochristaldo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23151C26?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </a>
-     <a href = "mailto:rgm45278@comp.uems.br"><img src="https://img.shields.io/badge/-Gmail-%23151C26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+ <a href = "mailto:rgm45278@comp.uems.br"><img src="https://img.shields.io/badge/-Gmail-%23151C26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://codepen.io/kkaiochristaldo"><img src="https://img.shields.io/badge/-Codepen-%23151C26?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank"></a>
 <div>
   <a href="https://github.com/kkaiochristaldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkaiochristaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
