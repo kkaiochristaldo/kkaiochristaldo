@@ -13,6 +13,7 @@
   <p align="left" >
       💻 I have already developed personal projects with 💻: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, CSS, Styled-Components, MongoDB</strong>
   </p>
+<br/>
 
  
  <div>
