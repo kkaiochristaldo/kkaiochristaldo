@@ -11,7 +11,7 @@
     💻 I am currently studying: <strong>C</strong>
   </p>
   <p align="left" >
-      💻 I have already developed personal projects with 💻: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, CSS, Styled-Components, MongoDB</strong>
+      💻 I have already developed personal projects with 💻: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, Styled-Components, MongoDB</strong>
   </p>
 <br/>
 
