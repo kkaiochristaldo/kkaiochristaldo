@@ -5,7 +5,7 @@
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Carlos Eduardo">
  
   <p align="left" >
-      My name is Kaio Christaldo, I'm 19 years old and I'm in the first year of computing science at UEMS 🚀
+      My name is Kaio Christaldo, I'm at level 19 (age) and I'm in the first year of computer science at UEMS 🚀
   </p>
   <p align="left" >
     💻 I am currently studying: <strong>C</strong>
