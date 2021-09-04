@@ -2,7 +2,7 @@
 
 ## Hello guys!  👋
  
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Carlos Eduardo">
+ <img src="https://github.com/kkaiochristaldo/kkaiochristaldo/blob/main/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Carlos Eduardo">
  
   <p align="left" >
       My name is Kaio Christaldo, I'm at lvl 19 (age) and I'm in the first year of computer science at UEMS 🚀
