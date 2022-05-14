@@ -8,7 +8,7 @@
       My name is Kaio Christaldo, I'm at lvl 20 (age) and I'm in the first year of computer science at UEMS 🚀
   </p>
   <p align="left" >
-    💻 I am currently studying: <strong>C, Python</strong>
+    💻 I am currently studying: <strong>C, C++</strong>
   </p>
   <p align="left" >
       💻 I have already developed personal projects with 💻: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, Styled-Components, MongoDB</strong>
