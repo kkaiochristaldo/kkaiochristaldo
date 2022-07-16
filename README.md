@@ -5,13 +5,13 @@
  <img src="https://github.com/kkaiochristaldo/kkaiochristaldo/blob/main/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Kaio Christaldo">
  
   <p align="left" >
-      My name is Kaio Christaldo, I'm at lvl 20 (age) and I'm in the second year of computer science at UEMS 🚀
+      Olá, seja bem vindo(a) ao meu Git, eu sou Kaio Christaldo, tenho 20 anos e atualmente estou no segundo ano de Ciência da Computação na UEMS 🚀
   </p>
   <p align="left" >
-    💻 I am currently studying: <strong>C, C++</strong>
+    💻 Estudos de momento: <strong>C, C++</strong>
   </p>
   <p align="left" >
-      💻 I have already developed personal projects with 💻: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, Styled-Components, MongoDB</strong>
+      💻 Já desenvolvi alguns projetos pessoas utilizando: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, Styled-Components, MongoDB</strong>
   </p>
 <br/>
 
@@ -20,6 +20,7 @@
  <a href="https://instagram.com/kaiochristaldo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23151C26?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </a>
  <a href = "mailto:rgm45278@comp.uems.br"><img src="https://img.shields.io/badge/-Gmail-%23151C26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:kkaiochristaldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23151C26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://codepen.io/kkaiochristaldo"><img src="https://img.shields.io/badge/-Codepen-%23151C26?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank"></a>
 <div>
   <a href="https://github.com/kkaiochristaldo">
