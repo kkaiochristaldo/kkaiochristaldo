@@ -4,7 +4,7 @@
  
  <img src="https://github.com/kkaiochristaldo/kkaiochristaldo/blob/main/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Kaio Christaldo">
  
-  <p align="center" >
+  <p align="left" >
       Olá, seja bem vindo(a) ao meu Git, eu sou Kaio Christaldo, tenho 20 anos e atualmente estou no segundo ano de Ciência da Computação na UEMS 🚀
   </p>
   <p align="left" >
