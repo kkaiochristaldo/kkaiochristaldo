@@ -1,6 +1,6 @@
 
 
-## 🚀🚀🚀👋
+##🚀🚀🚀
  
  <img src="https://github.com/kkaiochristaldo/kkaiochristaldo/blob/main/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador Kaio Christaldo">
  
@@ -11,13 +11,13 @@
     💻 Estudo no momento: <strong>C, C++</strong>
   </p>
   <p align="left" >
-      💻 Já desenvolvi alguns projetos pessoas utilizando: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, Styled-Components, MongoDB</strong>
+      💻 Já desenvolvi alguns projetos pessoais utilizando: <strong>React.js, Node.js, Next.js, Electron.js, Socket.io, Styled-Components, MongoDB</strong>
   </p>
 <br/>
 
  <img src="https://profile-counter.glitch.me/kkaiochristaldo/count.svg" />
  <div>
- <a href="https://instagram.com/kaiochristaldo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23151C26?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ <a href="https://instagram.com/kaioviske.tsx" target="kaioviske.tsx"><img src="https://img.shields.io/badge/-Instagram-%23151C26?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </a>
  <a href = "mailto:rgm45278@comp.uems.br"><img src="https://img.shields.io/badge/-Gmail-%23151C26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "mailto:kkaiochristaldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23151C26?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
